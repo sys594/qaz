@@ -1,6 +1,5 @@
 print('hello world')
 print('hello world')
-print('hello world')
 #print('hello world')
 #class a():
 # def run():
